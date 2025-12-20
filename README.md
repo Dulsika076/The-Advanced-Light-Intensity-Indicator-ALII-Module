@@ -13,3 +13,14 @@ The ALII is a hardware-based light monitoring system that measures, filters, and
 
 **<h1>🔍 Overview</h1>**
 The Advanced Light Intensity Indicator (ALII) is a DSP-based hardware system designed to accurately measure, process, and display ambient light intensity. Using an LDR sensor, the system captures real-time light data and applies signal equalization and digital filtering to reduce noise. A dedicated stability logic module is included to prevent spurious triggers caused by sudden or short-term light fluctuations, ensuring reliable and consistent output. The processed data is used to display both instantaneous and average light intensity values on seven-segment displays, making the system suitable for applications requiring consistent and reliable light monitoring.
+
+**<h1>🏗️ System Architecture</h1>**
+
+
+
+
+
+
+
+
+
