@@ -34,7 +34,7 @@ The Advanced Light Intensity Indicator (ALII) is a DSP-based hardware system des
 
 You can know all the things about our project by reading this document.
 📄 **Project Report:**  
-[Click here to view the PDF](.pdf)
+[Click here to view the PDF](DSP_G9._Report.pdf)
 
 
 
