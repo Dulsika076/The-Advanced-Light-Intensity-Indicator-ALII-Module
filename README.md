@@ -7,3 +7,7 @@ The ALII is a hardware-based light monitoring system that measures, filters, and
 
 **<h1>📸 Project Snapshots</h1>**
 
+| | |
+|---|---|
+| ![](image01.jpg) | ![](image02.jpg) |
+| ![](image03.jpg) | ![](image04.jpg) |
