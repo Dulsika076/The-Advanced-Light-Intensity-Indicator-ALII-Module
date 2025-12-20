@@ -40,22 +40,30 @@ You can know all the things about our project by reading this document.
 **📸 Images for every part in Simulation:**
 
 <p align="center">
-  <img src="Filter.png" width="30%" /><br>
+  <img src="Filter.png" width="50%" /><br>
   <b>Sallen-Key second order low pass filter</b><br>
 </p>
 
 <p align="center">
-  <img src="Average.png" width="30%" /><br>
+  <img src="Average.png" width="50%" /><br>
   <b>Averaging Logic</b><br>
 </p>
 
 <p align="center">
-  <img src="Stable.png" width="30%" /><br>
+  <img src="Stable.png" width="50%" /><br>
   <b>Stability Logic</b><br>
 </p>
 
+## 🎥 Simulation Video
 
+<p align="center">
+  <video src="Simulation.mp4" width="80%" controls></video>
+</p>
 
+<p align="center">
+  <b>System Simulation Video</b><br>
+  Shows real-time light intensity measurement, averaging process, Stability process and display output
+</p>
 
 
 
