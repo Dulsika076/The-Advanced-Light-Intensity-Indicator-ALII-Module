@@ -3,3 +3,5 @@ The ALII is a hardware-based light monitoring system that measures, filters, and
 
 
 [📖 Read this on Linkedin](https://www.linkedin.com/posts/dulsika-mendis-53640431a_digitalsignalprocessing-teamwork-sustainability-activity-7404901154700128256-2zWK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFDcrfoBfs-t0YrwyHS3fSSOQ8I4PrWgqeQ)
+
+📸 Project Snapshots
