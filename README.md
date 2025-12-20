@@ -54,16 +54,13 @@ You can know all the things about our project by reading this document.
   <b>Stability Logic</b><br>
 </p>
 
-## 🎥 Simulation Video
+## 🎥 Simulation Video (By Using Falstad):
 
-<p align="center">
-  <video src="Simulation.mp4" width="80%" controls></video>
-</p>
+▶️ [Watch the Simulation video](Simulation.mp4)
 
-<p align="center">
-  <b>System Simulation Video</b><br>
-  Shows real-time light intensity measurement, averaging process, Stability process and display output
-</p>
+**System Simulation Video**  
+Shows real-time light intensity measurement, averaging process, Stability process and display output.
+
 
 
 
