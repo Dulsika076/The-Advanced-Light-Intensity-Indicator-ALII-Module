@@ -54,8 +54,19 @@ You can know all the things about our project by reading this document.
   <b>Stability Logic</b><br>
 </p>
 
+**<h1>⚙️ How It Works (Shortly)</h1>**
 
+1. The LDR sensor senses ambient light and generates a corresponding analog voltage.
 
+2. This signal passes through a filtering stage to eliminate noise and unwanted fluctuations.
+
+3. By using flash ADC converts analog signal to digital signal.(Easy to work in digital domain) 
+
+4. The DSP unit processes the filtered signal to calculate real-time and average light intensity values.
+
+5. Stability logic ensures the output changes only when light variation is consistent, avoiding false readings.
+
+6. The processed values are displayed on seven-segment displays, providing clear and reliable visual feedback.
 
 
 
