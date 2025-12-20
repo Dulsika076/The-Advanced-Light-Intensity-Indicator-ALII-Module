@@ -33,8 +33,26 @@ The Advanced Light Intensity Indicator (ALII) is a DSP-based hardware system des
 • Power Supply: Provides regulated voltage to ensure stable operation.
 
 You can know all the things about our project by reading this document.
+
 📄 **Project Report:**  
 [Click here to view the PDF](DSP_G9._Report.pdf)
+
+**📸 Images for every part in Simulation:**
+
+<p align="center">
+  <img src="Filter.png" width="30%" /><br>
+  <b>Sallen-Key second order low pass filter</b><br>
+</p>
+
+<p align="center">
+  <img src="Average.png" width="30%" /><br>
+  <b>Averaging Logic</b><br>
+</p>
+
+<p align="center">
+  <img src="Stable.png" width="30%" /><br>
+  <b>Stability Logic</b><br>
+</p>
 
 
 
