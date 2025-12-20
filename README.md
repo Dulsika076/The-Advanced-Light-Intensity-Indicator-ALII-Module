@@ -16,8 +16,25 @@ The Advanced Light Intensity Indicator (ALII) is a DSP-based hardware system des
 
 **<h1>🏗️ System Architecture</h1>**
 
+• Light Sensor (LDR): Detects ambient light intensity and converts it into an analog signal.
 
+• Signal Conditioning & Filtering: Removes noise and smooths fluctuations from the raw sensor signal.(Sallen-Key second order low pass filter)
 
+• Flash ADC: Convert Analog signal to Digital Signal. 
+
+• DSP / Processing Unit: Performs averaging, stability detection, and decision logic.
+
+• Averaging Module: Calculates the average light intensity over a defined period.
+
+• Stability Logic Module: Prevents false triggers caused by sudden light variations.
+
+• Display Unit: Dual seven-segment displays show real-time and averaged light intensity values.
+
+• Power Supply: Provides regulated voltage to ensure stable operation.
+
+You can know all the things about our project by reading this document.
+📄 **Project Report:**  
+[Click here to view the PDF](.pdf)
 
 
 
